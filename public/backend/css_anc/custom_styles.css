@@ -1,0 +1,17 @@
+.sidebarStyle {
+    background: #e9ecef !important;
+}
+.sidebar-dark .nav-item .nav-link,
+.sidebar-dark .nav-item.active .nav-link i {
+    color: #cb61c1 !important;
+}
+
+#accordionSidebar > a {
+    padding-top: 5rem !important;
+    padding-bottom: 5rem !important;
+}
+
+.sidebar-dark .sidebar-brand {
+    margin: 1rem 0rem !important;
+    color: black !important;
+}

@@ -1,0 +1,41 @@
+.sidebarStyle {
+    background: #e9ecef !important;
+}
+.sidebar-dark .nav-item .nav-link i,
+.sidebar-dark .nav-item .nav-link,
+.sidebar-dark .nav-item.active .nav-link i {
+    color: #555 ;
+}
+.sidebar-dark .nav-item a.active,
+.sidebar-dark .nav-item .active i{
+    color: #cb61c1 !important;
+    background-color: #f8f9fc;
+}
+
+#accordionSidebar > a {
+    padding-top: 5rem !important;
+    padding-bottom: 5rem !important;
+}
+
+.sidebar-dark .sidebar-brand {
+    margin: 1rem 0rem !important;
+    color: black !important;
+}
+
+.nav-link > span {
+    font-weight: 900 !important;
+}
+
+@media screen and (min-width: 600px) {
+    .dataTables_filter input {
+        width: 450px !important;
+        margin-right: 10px !important;
+    }
+}
+
+/* @media screen and (max-width: 559px) {
+    .dataTables_filter input {
+        width: 100% !important;
+        margin-right: 10px !important;
+    }
+} */
